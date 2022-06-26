@@ -30,10 +30,10 @@ chmod x+ banner.sh
 ┣━➥[6] Cat Love<br>
 ┣━➥[7] Eagle<br>
 ┣━➥[8] Eagle 2<br>
-┣━➥[9] Hunter Boy [Special To Alamin khan]<br>
+┣━➥[9] Hunter Boy<br>
 ┣━➥[10] Hentai [18+]<br>
 ┣━➥[11] Lion<br>
-┣━➥[12] Noob Boss [Special To Mamun Ahmed]<br>
+┣━➥[12] Noob Boss<br>
 ┣━➥[13] Pokemon<br>
 ┣━➥[14] Pokemon 2<br>
 ┣━➥[15] Tiger<br>
